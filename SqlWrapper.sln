@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlWrapper", "SqlWrapper\SqlWrapper.csproj", "{4C5B7513-C5A3-4655-855E-8A74A4FEC304}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlWrapper", "SqlWrapper\SqlWrapper.csproj", "{DD242EE4-6352-458A-B03D-49A620B9C30D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4C5B7513-C5A3-4655-855E-8A74A4FEC304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4C5B7513-C5A3-4655-855E-8A74A4FEC304}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4C5B7513-C5A3-4655-855E-8A74A4FEC304}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4C5B7513-C5A3-4655-855E-8A74A4FEC304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD242EE4-6352-458A-B03D-49A620B9C30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD242EE4-6352-458A-B03D-49A620B9C30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD242EE4-6352-458A-B03D-49A620B9C30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD242EE4-6352-458A-B03D-49A620B9C30D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
